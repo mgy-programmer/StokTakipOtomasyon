@@ -1,0 +1,44 @@
+c:\users\muhammed\documents\visual studio 2015\Projects\Stok Takip\Stok Takip\bin\Debug\Stok Takip.exe.config
+c:\users\muhammed\documents\visual studio 2015\Projects\Stok Takip\Stok Takip\bin\Debug\Stok Takip.exe
+c:\users\muhammed\documents\visual studio 2015\Projects\Stok Takip\Stok Takip\bin\Debug\Stok Takip.pdb
+c:\users\muhammed\documents\visual studio 2015\Projects\Stok Takip\Stok Takip\obj\Debug\Stok Takip.csprojResolveAssemblyReference.cache
+c:\users\muhammed\documents\visual studio 2015\Projects\Stok Takip\Stok Takip\obj\Debug\Stok_Takip.AdminPanel.resources
+c:\users\muhammed\documents\visual studio 2015\Projects\Stok Takip\Stok Takip\obj\Debug\Stok_Takip.Form1.resources
+c:\users\muhammed\documents\visual studio 2015\Projects\Stok Takip\Stok Takip\obj\Debug\Stok_Takip.Properties.Resources.resources
+c:\users\muhammed\documents\visual studio 2015\Projects\Stok Takip\Stok Takip\obj\Debug\Stok Takip.csproj.GenerateResource.Cache
+c:\users\muhammed\documents\visual studio 2015\Projects\Stok Takip\Stok Takip\obj\Debug\Stok Takip.exe
+c:\users\muhammed\documents\visual studio 2015\Projects\Stok Takip\Stok Takip\obj\Debug\Stok Takip.pdb
+c:\users\muhammed\documents\visual studio 2015\Projects\Stok Takip\Stok Takip\obj\Debug\Stok_Takip.KullanıcıIslemleri.resources
+c:\users\muhammed\documents\visual studio 2015\Projects\Stok Takip\Stok Takip\obj\Debug\Stok_Takip.MusteriIslemleri.resources
+c:\users\muhammed\documents\visual studio 2015\Projects\Stok Takip\Stok Takip\obj\Debug\Stok_Takip.Urun.resources
+c:\users\muhammed\documents\visual studio 2015\Projects\Stok Takip\Stok Takip\obj\Debug\Stok_Takip.UrunTurEkle.resources
+C:\Users\PC\Desktop\Stok Takip\Stok Takip\bin\Debug\Stok Takip.exe.config
+C:\Users\PC\Desktop\Stok Takip\Stok Takip\bin\Debug\Stok Takip.exe
+C:\Users\PC\Desktop\Stok Takip\Stok Takip\bin\Debug\Stok Takip.pdb
+C:\Users\PC\Desktop\Stok Takip\Stok Takip\obj\Debug\Stok Takip.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\Stok Takip\Stok Takip\obj\Debug\Stok_Takip.AdminPanel.resources
+C:\Users\PC\Desktop\Stok Takip\Stok Takip\obj\Debug\Stok_Takip.Form1.resources
+C:\Users\PC\Desktop\Stok Takip\Stok Takip\obj\Debug\Stok_Takip.KullanıcıIslemleri.resources
+C:\Users\PC\Desktop\Stok Takip\Stok Takip\obj\Debug\Stok_Takip.MusteriIslemleri.resources
+C:\Users\PC\Desktop\Stok Takip\Stok Takip\obj\Debug\Stok_Takip.Properties.Resources.resources
+C:\Users\PC\Desktop\Stok Takip\Stok Takip\obj\Debug\Stok_Takip.Urun.resources
+C:\Users\PC\Desktop\Stok Takip\Stok Takip\obj\Debug\Stok_Takip.UrunTurEkle.resources
+C:\Users\PC\Desktop\Stok Takip\Stok Takip\obj\Debug\Stok Takip.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\Stok Takip\Stok Takip\obj\Debug\Stok Takip.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Stok Takip\Stok Takip\obj\Debug\Stok Takip.exe
+C:\Users\PC\Desktop\Stok Takip\Stok Takip\obj\Debug\Stok Takip.pdb
+C:\Users\PC\Desktop\Projeler\Stok Takip\Stok Takip\bin\Debug\Stok Takip.exe.config
+C:\Users\PC\Desktop\Projeler\Stok Takip\Stok Takip\bin\Debug\Stok Takip.exe
+C:\Users\PC\Desktop\Projeler\Stok Takip\Stok Takip\bin\Debug\Stok Takip.pdb
+C:\Users\PC\Desktop\Projeler\Stok Takip\Stok Takip\obj\Debug\Stok Takip.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\Projeler\Stok Takip\Stok Takip\obj\Debug\Stok_Takip.AdminPanel.resources
+C:\Users\PC\Desktop\Projeler\Stok Takip\Stok Takip\obj\Debug\Stok_Takip.Form1.resources
+C:\Users\PC\Desktop\Projeler\Stok Takip\Stok Takip\obj\Debug\Stok_Takip.KullanıcıIslemleri.resources
+C:\Users\PC\Desktop\Projeler\Stok Takip\Stok Takip\obj\Debug\Stok_Takip.MusteriIslemleri.resources
+C:\Users\PC\Desktop\Projeler\Stok Takip\Stok Takip\obj\Debug\Stok_Takip.Properties.Resources.resources
+C:\Users\PC\Desktop\Projeler\Stok Takip\Stok Takip\obj\Debug\Stok_Takip.Urun.resources
+C:\Users\PC\Desktop\Projeler\Stok Takip\Stok Takip\obj\Debug\Stok_Takip.UrunTurEkle.resources
+C:\Users\PC\Desktop\Projeler\Stok Takip\Stok Takip\obj\Debug\Stok Takip.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\Projeler\Stok Takip\Stok Takip\obj\Debug\Stok Takip.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Projeler\Stok Takip\Stok Takip\obj\Debug\Stok Takip.exe
+C:\Users\PC\Desktop\Projeler\Stok Takip\Stok Takip\obj\Debug\Stok Takip.pdb
